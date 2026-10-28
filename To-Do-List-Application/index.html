@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>To Do List by Samuel Nicolas W R</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="app">
+  <header>
+    <span class="tag">// task_list</span>
+    <h1>Tasks</h1>
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+    <div class="stats"><span>Total <b id="total">0</b></span><span>Done <b id="comp">0</b></span></div>
+  </header>
+  <div class="add">
+    <input id="in" type="text" maxlength="100" placeholder="Add a task" aria-label="New task" autocomplete="off">
+    <button id="addBtn" aria-label="Add task">+</button>
+  </div>
+  <div class="err" id="err" role="alert"></div>
+  <ul id="list"></ul>
+  <footer><button class="clear" id="clear">Clear completed</button></footer>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
