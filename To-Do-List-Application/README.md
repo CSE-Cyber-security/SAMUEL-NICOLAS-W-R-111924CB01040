@@ -148,12 +148,6 @@ Contributions are welcome.
 
 Please keep changes dependency-free and consistent with the existing code style.
 
-## License
-
-Distributed under the MIT License. Add a `LICENSE` file to the repository root with the MIT text and your name before publishing.
-
----
-
 <div align="center">
 
 Built with HTML, CSS and JavaScript.
