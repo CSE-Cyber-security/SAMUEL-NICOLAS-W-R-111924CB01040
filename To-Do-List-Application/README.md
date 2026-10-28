@@ -75,7 +75,7 @@ A modern web browser (Chrome, Firefox, Safari or Edge).
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/CSE-Cyber-security/Deepa-Sree-R-111924CB01007.git
+git clone https://github.com/CSE-Cyber-security/SAMUEL-NICOLAS-W-R-111924CB01040.git
 
 # 2. Move into the project folder
 cd To-Do-List-Application
